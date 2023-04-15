@@ -47,7 +47,10 @@
 {"key":"csp_Dy1010","name":"⏺双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;613066B0150C902B3D51BDE7A433BE83"},
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;613066B0150C902B3D51BDE7A433BE83"},
 {"key":"csp_XBPQ_乐猪","name":"💢乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;613066B0150C902B3D51BDE7A433BE83"},
-
+{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"http://127.0.0.1:8080/token.txt","jar":"https://lantongxue.cc/vcbx/jar/dali.jar"},
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:8080/token.txt","jar":"https://lantongxue.cc/vcbx/jar/dali.jar"},
+{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:8080/token.txt","jar":"https://lantongxue.cc/vcbx/jar/dali.jar"},
+{"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:8080/token.txt","jar":"https://lantongxue.cc/vcbx/jar/dali.jar"},
 
 {"key":"date","name":"️🚫🔞 0226 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
 
