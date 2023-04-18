@@ -22,7 +22,19 @@
 
 {"key":"直播1","name":"AV点播1","type":3,"playerType":1,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/zhibo.js","ext":"🈲AV壹$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/live.txt#㊙️AV贰$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/av.txt&&&https://api.caonm.net/api/mc/","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
 {"key": "csp_xf_18av","name": "️18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/zipai.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
- {
+  {"key":"drpy_js_猫了个咪","name":"猫了个咪优[DRPY18]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JS/js/猫了个咪.js","jar":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JAR/Yoursmile.jar"},	
+{
+    "key": "csp_xBPQ_麻豆女优",
+    "name":"麻豆女优",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+   "playerType":2,
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/madou1.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01},
+    
+    {
     "key": "csp_xBPQ_西瓜优",
     "name":"西瓜优",
     "type": 3,
