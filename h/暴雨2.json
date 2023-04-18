@@ -9,7 +9,7 @@
 "图片": "src=\"&&\"",
 "标题": "title=\"&&\"",
 "链接": "href=\"&&\"",
-"链接前缀":"https://wg55v3bejw08.com:58004",
+"链接前缀":"https://wg55v3bejw08.com:58004/",
 "副标题":"<span class=\"is-hd\">&&</span>",
 "搜索url":"https://wg55v3bejw08.com:58004/index.php/vodsearch/{wd}----------{pg}---.html",
 "搜索模式":"1",
@@ -24,7 +24,7 @@
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
-"分类url":"https://wg55v3bejw08.com:58004/index.php/vod/type/{cateId}.html",
+"分类url":"https://wg55v3bejw08.com:58004/index.php/vod/type/{cateId}-{catePg}.html",
 "筛选":{
 "1":[
 {
