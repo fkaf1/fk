@@ -12,8 +12,7 @@
     {"key":"csp_XBiu_酷云","name":"🍀酷云(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/酷云.json"},
 //自用
  
-    {"key":"csp_XBiu_by","name":"baoyu2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/暴雨3.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
-},
+    {"key":"csp_XBiu_by","name":"baoyu2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/暴雨3.json"},
     {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/c120487/00/blob/main/jar/xc0126.jar"}, 
 
 {"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/c120487/00/blob/main/jar/xc0126.jar"},
