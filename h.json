@@ -70,7 +70,8 @@
 "filterable": 0,
 "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/暴雨.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
-  
+{"name":"ggmmzy速度","key":"00速度资源sea","type":0,"api":"http://www.ggmmzy.com:9999/inc/sea","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"ggmmzy哥哥妹妹","key":"00哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},  
         {
 "key": "csp_xBPQ_超清4",
 "name": "tk2",
