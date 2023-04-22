@@ -5,7 +5,7 @@
 "热门推荐":"",
 "起始页":"1",
 "数组":"class=\"video-item&&</div>",
-"图片":"src=\"&&\"",
+"图片":"data-src=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
