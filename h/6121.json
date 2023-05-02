@@ -1,24 +1,24 @@
-﻿{
+{
 "直接播放":"1",
 "站名":"6121",
-"主页url":"https://612197.xyz/",
+"主页url":"https://612197.xyz/index.php/vod/type/id/30.html",
 "热门推荐":"",
 "起始页":"1",
 "数组":"class=\"vwpp&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
-"线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
-"线路标题":"<span>&&</span>",
+"线路数组":"<div class=\"vwpp&&</div>",
+"线路标题":"<script>&&</script>",
 "搜索url":"https://612197.xyz/index.php/vod/type/id/search.html?wd={wd}",
 "搜索模式":"1",
 "搜索数组":"<li>&&</li>",
 "搜索图片":"data-src=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
-"搜索后缀":"/index.php/vod/type/id/",
-"搜索链接前缀":"https://612197.xyz/",
-"搜索链接后缀":"/sid/1/nid/1.html",
+//"搜索后缀":"/index.php/vod/type/id",
+//"搜索链接前缀":"https://612197.xyz/",
+//"搜索链接后缀":"/sid/1/nid/4.html",
 "状态":"<div class=\"video-info-aux\"&&</div>",
 "导演":"导演：</span>&&</div>",
 "主演":"主演：</span>&&</div>",
@@ -29,4 +29,3 @@
 "分类":"动漫$32#無碼$30#歐美$38#精选$37#国产$34",
 "分类url":"https://612197.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
 }
-
