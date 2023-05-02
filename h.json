@@ -103,6 +103,17 @@
 "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/615n.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
+        {
+"key": "csp_xBPQ_6154",
+"name": "6154",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/6154.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
 {"name":"ggmmzy速度","key":"00速度资源sea","type":0,"api":"http://www.ggmmzy.com:9999/inc/sea","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"ggmmzy哥哥妹妹","key":"00哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},  
         {
