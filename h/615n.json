@@ -23,9 +23,9 @@
 "导演":"导演：</span>&&</div>",
 "主演":"主演：</span>&&</div>",
 "简介":"剧情：</span>&&</span>",
-//"免嗅":"1",
-//"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-//"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
 "分类":"國產$1#無碼$2#有碼$3#歐美$4#動漫$5#無碼$6#情色$7#素人出演$8#角色扮演$9#成人动漫$38#变态另类$39",
 "分类url":"https://www.61502.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
 }
