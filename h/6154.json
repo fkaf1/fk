@@ -10,7 +10,7 @@
 "链接":"href=\"&&\"",
 "线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
 "线路标题":"<span>&&</span>",
-"搜索url":"https://61548.xyz/index.php/vod/search.html?wd={wd}",
+"搜索url":"https://61548.xyz/kk/3.php/page/{catePg}/wd/{wd}.html",
 "搜索模式":"1",
 "搜索数组":"<li>&&</li>",
 "搜索图片":"data-src=\"&&\"",
