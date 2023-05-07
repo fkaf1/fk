@@ -1,4 +1,4 @@
-﻿﻿{
+﻿{
 "直接播放":"1",
 "站名":"百花视频",
 "主页url":"https://www.91mt15.top/",
@@ -24,7 +24,7 @@
 "导演":"导演：</span>&&</div>",
 "主演":"主演：</span>&&</div>",
 "简介":"剧情：</span>&&</span>",
-"免嗅":"1",
+"免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
 "分类":"视频一区$listinfo-1-0#精选$listinfo-2-0#分类$listinfo-3-0#专题$topic",
