@@ -169,6 +169,17 @@
 "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/阿三.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
+                                {
+"key": "csp_xBPQ_怡乐",
+"name": "怡乐",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/怡乐.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
 {"name":"ggmmzy速度","key":"00速度资源sea","type":0,"api":"http://www.ggmmzy.com:9999/inc/sea","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"ggmmzy哥哥妹妹","key":"00哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},  
         {
@@ -347,7 +358,7 @@
     {"key":"csp_xBPQ_黄瓜","name":"🏆黄瓜","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/黄瓜.json"},
     {"key":"csp_xf_18av","name":"🏆18av[墙]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/18av.json"},
 
-    {"key":"csp_XBiu_香蕉","name":"🍁香蕉(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/香蕉.json"},
+    //{"key":"csp_XBiu_香蕉","name":"🍁香蕉(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/香蕉.json"},
     {"key":"csp_XBiu_国产传媒","name":"🍁国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/国产传媒.json"},
     {"key":"csp_XBiu_GAOAA","name":"🍁GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/GAOAA.json"},
     //{"key":"csp_XBiu_黄仓库","name":"🍁黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/黄仓库.json"},
