@@ -12,7 +12,7 @@
 "线路标题":"<span>&&</span>",
 //"搜索url":"https://www.timitunai.cc/index.php/vod/search.html?wd={wd}",
 //"搜索url":"https://vvzx28.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
-"搜索url":"https://vvzx28.buzz/hunt/{wd}.html",
+"搜索url":"https://vvzx28.buzz/hunt/wd.html",
 "搜索模式":"1",
 //"搜索数组":"class=\"vodlist_item&&</div>",
 "搜索数组":"<li>&&</li>",
