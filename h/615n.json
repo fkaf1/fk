@@ -16,7 +16,7 @@
 "搜索图片":"data-src=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
-//"搜索后缀":"/index.php/vod/play/id/",
+"搜索后缀":"/101.php?v=",
 "搜索链接前缀":"https://www.61502.xyz",
 //"搜索链接后缀":"/sid/1/nid/1.html",
 "状态":"<div class=\"video-info-aux\"&&</div>",
