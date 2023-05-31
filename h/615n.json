@@ -9,7 +9,7 @@
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
-"线路标题":"<span>&&</span>",
+//"线路标题":"<span>&&</span>",
     "链接前缀":"https://www.61502.xyz",
     "线路标题":">&&<",
 "搜索url":"https://www.61502.xyz/index.php/vod/search.html?wd={wd}",
@@ -25,12 +25,7 @@
 "状态":"<div class=\"video-info-aux\"&&</div>",
 "导演":"导演：</span>&&</div>",
 "主演":"主演：</span>&&</div>",
-"简介":"剧情：</span>&&</span>",
-   
-  "播放列表": "<a&&/a>",
-  "播放标题": ">&&<",
-  "播放链接":"href=\"&&\"",   
-   
+"简介":"剧情：</span>&&</span>",  
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
