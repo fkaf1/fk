@@ -523,7 +523,17 @@
     {"key":"久草","name":"🥇久草优","type":0,"api":"http://jcspcj8.com/api?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"色鸡巴","name":"🥇色鸡巴","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"大地","name":"🥇大地","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch":1,"searchable":1,"filterable":1},
-    {"key":"字幕网","name":"🥇字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"字幕网","name":"🥇字幕网优","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
+    {
+      "key": "zp116",
+      "name": "*泡芙资源",
+      "type": 0,
+      "api": "http://zmcj88.com/api?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    
     {"key":"利来","name":"🥇利来","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"富二代","name":"🥇富二代优","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"色屌丝","name":"🥇色屌丝","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","quickSearch":1,"searchable":1,"filterable":1},
