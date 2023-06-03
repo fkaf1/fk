@@ -8,7 +8,7 @@
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 //"链接":"href=\"&&\"",
-   "链接": "href=\"/index.php/vod/detail/id/&&/sid/1/nid/1.html\"",
+   "链接": "href=\"/index.php/vod/detail/id/&&.html\"",
   "链接前缀": "/index.php/vod/play/id/",
   "链接后缀": "/sid/1/nid/1.html",
    //"播放链接":"href=\"&&\"",
