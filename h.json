@@ -281,6 +281,17 @@
 "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/jy.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
+     {
+"key": "csp_xBPQ_雏鸟",
+"name": "雏鸟",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/雏鸟.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
  {
 "key": "csp_xBPQ_四虎2",
 "name": "四虎2",
