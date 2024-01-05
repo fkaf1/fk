@@ -5,9 +5,13 @@
 "name":"多多家庭版"
 }，
 {
+"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fkaf1/TVBox/master/XC2.json",
+"name":"移动南风"
+}，
+{
 "url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
 "name":"分享者"
-},
+}，
 {
 "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 "name":"南风"
@@ -137,10 +141,7 @@
 "url":"https://agit.ai/3580805300/TVBox/raw/branch/master/18+.txt",
 "name":"3580"
 }，
-{
-"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fkaf1/TVBox/master/XC2.json",
-"name":"13800组合"
-}，
+
 {
 "url":"https://ghproxy.com/https://raw.githubusercontent.com/fkaf1/fk/master/3580.json",
 "name":"3580组合"
