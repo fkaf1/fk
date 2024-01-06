@@ -1631,7 +1631,7 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
 
-####🎵｜现场,#genre#
+🎵｜现场,#genre#
 吴涤清-阿里巴巴(演唱会),http://em.21dtv.com/songs/60066768.mkv
 吴涤清-草原之夜(演唱会),http://em.21dtv.com/songs/60066903.mkv
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
