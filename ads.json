@@ -620,6 +620,7 @@
     {"key":"csp_XYQHiker_猫咪","name":"猫咪","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/猫咪.json"},
     {"key":"csp_XYQHiker_水果派","name":"水果派","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/水果派.json"},
     {"key":"csp_XYQHiker_300分类","name":"300分类","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/300分类.json"}
+  
   ],
   "parses":[
     {"name":"Web聚合","type":3,"url":"Web"},
