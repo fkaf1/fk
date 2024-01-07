@@ -136,7 +136,7 @@ NewTV明星大片 2.5M1080,http://39.134.65.208/PLTV/88888888/224/3221225550/ind
 黑莓电竞 4M1080,http://39.134.65.208/PLTV/88888888/224/3221225633/index.m3u8
 黑莓电竞 4M1080,http://39.134.65.208/PLTV/88888888/224/3221225640/index.m3u8
 
-🇨🇳｜移动安徽IPTV,#genre#
+🛰｜移动安徽IPTV,#genre#
 CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdcctv01/1.m3u8
 CCTV1HD,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 CCTV2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
@@ -233,8 +233,7 @@ NewTV惊悚悬疑,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-busin
 精品大剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m3u8
 精品纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
 精品体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jtiyu/1.m3u8
-怡伴健康,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-
-business/live/ljiankangyouyue/1.m3u8
+怡伴健康,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/1.m3u8
 农业致富,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
 哒啵赛事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/wmyx/1.m3u8
 足球频道,http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
@@ -289,8 +288,7 @@ business/live/ljiankangyouyue/1.m3u8
 安徽公共高清,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 安徽国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
 徽生活,http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
-海豚生活,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-
-htsh/1.m3u8
+海豚生活,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh/1.m3u8
 睛彩安徽,http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
 海豚健康,http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
 海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
@@ -353,7 +351,7 @@ CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 咪咕全民热练,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8000k-
 1080P-quanminrl/1.m3u8
 
-💖｜移动黑龙江,#genre#
+🛰｜移动黑龙江,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -471,7 +469,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 CCTV14 2.5M1080,http://39.134.65.208/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 
-纪录片频道,#genre#
+🎬纪录频道,#genre#
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
