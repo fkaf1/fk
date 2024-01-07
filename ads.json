@@ -1,0 +1,712 @@
+﻿{
+  "wallpaper": "https://picsum.photos/1080/",
+  "spider": "http://ftp6284928.host108.abeiyun.cn/h/jar/h.jar;md5;adc2b3038c24d8d5d6c89d760c934875",
+  "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
+  "sites": [
+    {"key":"csp_xpath_lenxitv","name":"🍀冷曦影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/lenxi.json"},
+    {"key":"csp_XBiu_真不卡","name":"🍀真不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡.json"},
+    {"key":"csp_XBiu_真不卡2","name":"🍀真不卡2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡2.json"},
+    {"key":"csp_XBiu_真不卡3","name":"🍀真不卡3(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡3.json"},
+    {"key":"csp_XBiu_不卡","name":"🍀不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/不卡.json"},
+    {"key":"CK资源","name":"🍀CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"csp_XBiu_酷云","name":"🍀酷云(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/酷云.json"},
+//自用
+ //{"key":"csp_XBiu_by","name":"baoyu2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/fkaf/fk22/-/raw/main/h/暴雨3.json"},
+    
+    {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/c120487/00/blob/main/jar/xc0126.jar"}, 
+
+{"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/c120487/00/blob/main/jar/xc0126.jar"},
+{"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/c120487/00/blob/main/jar/xc0126.jar"},		
+//{"key":"csp_xBPQ_banan","name":"banan优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/xBPQ/banan.json","jar":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JAR/Yoursmile2.jar"},		
+
+{"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色仓库优","quickSearch":1,"searchable":1,"playerType":2,"type":3,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar;md5;dde04006f7a3369ed6c7637163dd5dd2"},
+
+{"key":"直播","name":"AV点播","type":3,"playerType":1,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/zhibo.js","ext":"🈲AV壹$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/live.txt#㊙️AV贰$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/av.txt#🆑AV叁$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/AV3.txt#🈴AV肆$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/AV4.txt&&&https://api.caonm.net/api/mc/","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+//{"key": "csp_xf_18av","name": "️18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/zipai.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+    
+{"key":"drpy_js_18av","name":"18av","type":3,"api":"https://agit.ai/weigs/w/raw/branch/master/lib/drpy.min.js","ext":"https://agit.ai/weigs/w/raw/branch/master/666/18av.js","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+    
+  {"key":"drpy_js_猫了个咪","name":"猫了个咪优[DRPY18]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JS/js/猫了个咪.js","jar":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JAR/Yoursmile.jar"},	
+
+    
+    {
+    "key": "csp_xBPQ_麻豆女优",
+    "name":"麻豆女优",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+   "playerType":2,
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/madou1.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+    
+    
+    {
+    "key": "csp_xBPQ_西瓜优",
+    "name":"西瓜优",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+   "playerType":2,
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xjsp.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+
+    {
+    "key": "csp_xBPQ_右手",
+    "name":"右手影院2",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/yousxxx.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+
+    
+{
+"key": "csp_xBPQ_超清2",
+"name": "香蕉超清2",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按首页切换源$2k-zipaitoupai#设置可选推荐豆瓣$2k-chaoqingchuanmei#未成年禁止使用$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#直播录播$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+    {
+"key": "csp_xBPQ_超清3",
+"name": "暴雨2",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/暴雨.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+        {
+"key": "csp_xBPQ_6121",
+"name": "6121",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/6121.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+            {
+"key": "csp_xBPQ_解说全",
+"name": "解说全1",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/解说全1.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+
+
+                {
+"key": "csp_xBPQ_解说",
+"name": "解说",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/解说1.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+    {
+"key": "csp_xBPQ_615n",
+"name": "615n",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/615n.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+        {
+"key": "csp_xBPQ_6154",
+"name": "6154",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/6154.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+            {
+"key": "csp_xBPQ_蜜桃",
+"name": "蜜桃",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/蜜桃.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                {
+"key": "csp_xBPQ_甩哥",
+"name": "甩哥",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/甩哥.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                    {
+"key": "csp_xBPQ_番禺",
+"name": "番禺",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/番禺.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                        {
+"key": "csp_xBPQ_柏汁",
+"name": "柏汁",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/柏汁.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                            {
+"key": "csp_xBPQ_阿三",
+"name": "阿三",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/阿三.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                                {
+"key": "csp_xBPQ_怡乐",
+"name": "怡乐",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/怡乐.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                                    {
+"key": "csp_xBPQ_驶入",
+"name": "驶入",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/驶入.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                                        {
+"key": "csp_xBPQ_有无",
+"name": "有无",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/有无.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                                            {
+"key": "csp_xBPQ_天美",
+"name": "天美",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/天美.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+                                                {
+"key": "csp_xBPQ_如花",
+"name": "如花",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/如花.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+{
+"key": "csp_xBPQ_多啦",
+"name": "多啦",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/多啦.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+{
+"key": "csp_xBPQ_线上",
+"name": "线上",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/线上.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+ {
+"key": "csp_xBPQ_jy",
+"name": "jy",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/jy.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+     {
+"key": "csp_xBPQ_学会",
+"name": "学会",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/学会.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+     {
+"key": "csp_xBPQ_雏鸟",
+"name": "雏鸟",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/雏鸟.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+         {
+"key": "csp_xBPQ_花村",
+"name": "花村",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/花村.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+            {
+"key": "csp_xBPQ_3k",
+"name": "3k",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/3k.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+}, 
+    
+ {
+"key": "csp_xBPQ_胖虎影视",
+"name": "胖虎影视",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/胖虎影视_XBPQ.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+
+ {
+"key": "csp_xBPQ_四虎2",
+"name": "四虎2",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/四虎.json"},
+    
+{"name":"ggmmzy速度","key":"00速度资源sea","type":0,"api":"http://www.ggmmzy.com:9999/inc/sea","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"ggmmzy哥哥妹妹","key":"00哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},  
+        {
+"key": "csp_xBPQ_超清4",
+"name": "tk2",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/tk.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+},
+    
+{
+            "key": "csp_xBPQ_香蕉AV解说2",
+            "name": "🏆香蕉解说2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉AV解说.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+ {
+            "key": "csp_xBPQ_香蕉超清2",
+            "name": "🏆香蕉超清2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+        {
+            "key": "csp_xBPQ_香蕉国产2",
+            "name": "🏆香蕉国产2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉国产传媒.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+{
+            "key": "csp_xBPQ_香蕉资源2",
+            "name": "🏆香蕉资源2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉资源.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+        {
+            "key": "csp_xBPQ_香蕉久久热2",
+            "name": "🏆香蕉久久热2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉久久热.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+        {
+            "key": "csp_xBPQ_香蕉废柴2",
+            "name": "🏆香蕉废柴2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉废柴网.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+        {
+            "key": "csp_xBPQ_香蕉直播2",
+            "name": "🏆香蕉直播2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉实时直播.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+        {
+            "key": "csp_xBPQ_香蕉搜索2",
+            "name": "🏆香蕉搜索2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉搜索.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+        },
+
+    
+    
+    
+    
+    
+ //更新
+    
+      {
+"key": "csp_xBPQ_超清",
+"name": "香蕉超清",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
+},
+    {
+            "key": "csp_xBPQ_聚优AV解说",
+            "name": "聚优AV解说",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExwRmRvQzB6bUdZek5GN1Ry.txt","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
+            
+        },
+        {"key": "奶茶专场","name": "奶茶采集","type": 1,"api": "https://caiji.naichaapi.com/inc/apijson_vod.php","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"微拍福利","精彩时刻","嫩妹福利","网拍嫩模","热门事件","91大神","国产原创","国产主播","日韩主播","欧美主播","港台剧情","日韩剧情","欧美剧情","恐怖色情","无码番号","有码番号","动漫肉番","VIP视频"]},
+        {"key": "辣椒专场","name": "辣椒采集","type": 1,"api": "https://apilj.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"国产自拍","欧美极品","日韩无码","AV明星","中文字幕","动漫精品","极骚萝莉","人妖视频","重咸口味","三级自慰","强奸乱伦","独家擂台格斗","辣椒GIGA","HEYZO","独家DMM","HEY诱惑","童颜巨乳","高潮喷吹","激情口交","绝美少女","首次亮相","AV明星1"]},
+    {"key": "玉兔专场","name": "玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
+    
+    {"key": "森林专场","name": "森林采集","type": 1,"api": "https://slapibf.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"精品推荐","国产色情","主播直播","亚洲无码","亚洲有码","中文字幕","巨乳美乳","人妻熟女","强奸乱伦","欧美精品","萝莉少女","伦理三级","成人动漫","自拍偷拍","制服丝袜","口交颜射","日本精品","Cosplay","素人自拍","台湾辣妹","韩国御姐","唯美港姐","东南亚AV","欺辱凌辱","剧情介绍","多人多P","91探花","网红流出","野外露出","古装扮演","女优系列","可爱学生","风情旗袍","兽耳系列","瑜伽裤","闷骚护士","过膝袜","网曝门","传媒出品","女同性恋","男同性恋","恋腿狂魔"]},
+    
+    {"key": "大地专场","name": "大地采集","type": 0,"api": "https://dadiapi.com/api.php","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"日韩无码","强奸乱伦","欧美精品","国产精品","人妻系列","中文字幕","动漫精品","伦理影片","日韩精品","制服诱惑","自拍偷拍","AV明星","3P合辑","巨乳系列","颜射系列","口交视频","自慰系列","SM重味","教师学生","大秀视频","AV明星1"]},
+     {"key": "芒果专场","name": "芒果采集","type": 1,"api": "https://mgzyz1.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"中字馆","欧美馆","无码馆","国产馆","素人馆","JAV馆","动漫馆","三级馆"]},
+    
+    
+    {"key": "523专场","name": "523采集","type": 1,"api": "https://523zyw.me/inc/apijson_vod.php","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"国产精品","主播精选","微拍福利","日韩有码","日韩无码","欧美风情","伦理综艺","VR影院","成人动漫","VIP视频","伦理三级片"]},
+    
+    
+    
+    
+    
+    
+    
+    //补充
+    
+    
+    {"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/四虎.json"},
+    {"key":"csp_xBPQ_香蕉AV解说","name":"🏆香蕉解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉解说.json"},
+    {"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉资源.json"},
+    {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉超清.json"},
+    {"key":"csp_xBPQ_香蕉国产","name":"🏆香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉国产.json"},
+    {"key":"csp_xBPQ_香蕉久久热","name":"🏆香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉久久热.json"},
+    {"key":"csp_xBPQ_香蕉废柴","name":"🏆香蕉废柴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉废柴.json"},
+    {"key":"csp_xBPQ_香蕉搜索","name":"🏆香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉搜索.json"},
+    {"key":"csp_xBPQ_香蕉直播","name":"🏆香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉直播.json"},
+    {"key":"csp_xBPQ_黄仓库","name":"🏆黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/黄仓库.json"},
+    {"key":"csp_xBPQ_banban","name":"🏆banban","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/banban.json"},
+    {"key":"csp_xBPQ_麻豆映画","name":"🏆麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/麻豆映画.json"},
+    {"key":"csp_xBPQ_香蕉","name":"🏆香蕉","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉.json"},
+    {"key":"csp_xBPQ_性欲轮回","name":"🏆性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/性欲轮回.json"},
+    {"key":"csp_xBPQ_性欲轮回[分类]","name":"🏆性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/性欲轮回[分类].json"},
+    {"key":"csp_xBPQ_精东影业1","name":"🏆精东影业1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/精东影业1.json"},
+    {"key":"csp_xBPQ_精东影业2","name":"🏆精东影业2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/精东影业2.json"},
+    {"key":"csp_xBPQ_顶级国产","name":"🏆顶级国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/顶级国产.json"},
+    {"key":"csp_xBPQ_GAOAA","name":"🏆GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/GAOAA.json"},
+    {"key":"csp_xBPQ_爱污传媒","name":"🏆爱污传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/爱污传媒.json"},
+    {"key":"csp_xBPQ_色花堂","name":"🏆色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/色花堂.json"},
+    {"key":"csp_xBPQ_天天直播","name":"🏆天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/天天直播.json"},
+    {"key":"csp_xBPQ_天天综合","name":"🏆天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/天天综合.json"},
+    {"key":"csp_xBPQ_右手影院1","name":"🏆右手影院1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/右手影院.json"},
+    
+    {"key":"csp_xBPQ_左临右射","name":"🏆左临右射","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/左临右射.json"},
+    {"key":"csp_xBPQ_黄瓜","name":"🏆黄瓜","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/黄瓜.json"},
+    {"key":"csp_xf_18av","name":"🏆18av[墙]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/18av.json"},
+
+    //{"key":"csp_XBiu_香蕉","name":"🍁香蕉(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/香蕉.json"},
+    {"key":"csp_XBiu_国产传媒","name":"🍁国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/国产传媒.json"},
+    {"key":"csp_XBiu_GAOAA","name":"🍁GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/GAOAA.json"},
+    //{"key":"csp_XBiu_黄仓库","name":"🍁黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/黄仓库.json"},
+    //{"key":"csp_XBiu_小丑撸","name":"🍁小丑撸(XB)[墙]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/小丑撸.json"},
+    //{"key":"csp_XBiu_掏爱撸","name":"🍁掏爱撸(XB)[墙]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/掏爱撸.json"},
+
+    {"key":"亚洲成人在线","name":"👙亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"草榴视频","name":"👙草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"一本道","name":"👙一本道","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"麻豆视频","name":"👙麻豆视频","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"青青草视频","name":"👙青青草视频","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"久久热在线","name":"👙久久热在线","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"日本AV在线","name":"👙日本AV在线","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"大香蕉","name":"👙大香蕉","type":0,"api":"https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"快播盒子","name":"👙快播盒子","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"黄瓜TV","name":"👙黄瓜TV","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"我要啪啪","name":"👙我要啪啪","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"AV集中淫","name":"👙AV集中淫","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"夜夜撸","name":"👙夜夜撸","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"大屌丝","name":"👙大屌丝","type":0,"api":"https://www.caiji24.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"咪咪","name":"👙咪咪","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"鲍鱼AV","name":"👙鲍鱼AV","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+
+
+    {"key":"影库","name":"🥇影库-","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"酷伦","name":"🥇酷伦-","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","playUrl":"https://jx.kujiexi.net/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable":0},
+
+    {"key":"博天堂","name":"🥇博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"JAV名优","name":"🥇JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"环亚","name":"🥇环亚优","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"*010爱","name":"🥇010爱","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"美少女","name":"🥇美少女优","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"淫水机","name":"🥇淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"香奶儿","name":"🥇香奶儿优","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"白嫖","name":"🥇白嫖优","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"小湿妹","name":"🥇小湿妹","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"黄A","name":"🥇黄A","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"花魁","name":"🥇花魁","type":0,"api":"https://caiji.huakuiapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"奶茶","name":"🥇奶茶","type":0,"api":"https://caiji.naichaapi.com/inc/api.php","playUrl":"https://jiexi.naichaapi.com/?url=","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"草莓","name":"🥇草莓","type":0,"api":"https://caiji.caomeiapi.com/inc/api.php","playUrl":"https://jiexi.caomeiapi.com/?url=","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"523","name":"🥇523av","type":0,"api":"https://caiji.523zyw.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"色猫","name":"🥇色猫","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"哥妹","name":"🥇哥妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"lebo","name":"🥇乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"芒果","name":"🥇芒果","type":0,"api":"https://mgzyz1.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":1,"filterable":0},
+    {"key":"番号","name":"🥇番号","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"老鸭","name":"🥇老鸭","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml","playUrl":"https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"*AIvin","name":"🥇AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"大MM","name":"🥇大MM","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"久草","name":"🥇久草优","type":0,"api":"http://jcspcj8.com/api?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"色鸡巴","name":"🥇色鸡巴","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"大地","name":"🥇大地","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"字幕网","name":"🥇字幕网优","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
+    {
+      "key": "zp116",
+      "name": "*泡芙资源",
+      "type": 0,
+      "api": "http://zmcj88.com/api?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    
+    {"key":"利来","name":"🥇利来","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"富二代","name":"🥇富二代优","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"色屌丝","name":"🥇色屌丝","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"小姐姐","name":"🥇小姐姐优","type":0,"api":"http://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"天噜啦","name":"🥇天噜啦","type":0,"api":"http://www.66caiji.com/api/max.php","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"芒果","name":"🥇芒果","type":0,"api":"https://mgzyz1.com/api.php/provide/vod/at/xml/","playUrl":"https://mgm3u8-player.com/player/DPm3u8.php?url=","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"点点娱乐","name":"🥇点点娱乐","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"52av","name":"🥇52av","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"精工厂","name":"🥇精工厂优","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"狼少年","name":"🥇狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"色色","name":"🥇色色","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"玖玖","name":"🥇玖玖","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"芒果18+","name":"🥇芒果18+","type":0,"api":"https://www.mgav1.cc/api.php/provide/vod/at/xml/","playUrl":"https://mgm3u8-player.com/player/DPm3u8.php?url=","searchable":0,"quickSearch":1,"filterable":0},
+
+    {"key":"91md","name":"🥈91md","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"探探","name":"🥈探探","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":0},
+    {"key":"酷豆","name":"🥈酷豆","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","playUrl":"https://jx.kubohk.com/jx/?url=","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"丝袜","name":"🥈丝袜","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"秀色","name":"🥈秀色","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"https://api.xiusebf.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"皇冠","name":"🥈皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"KK写真","name":"🥈KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"金莲","name":"🥈金莲","type":1,"api":"https://111kkkkk.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"热巴","name":"🥈热巴","type":1,"api":"http://reba.aishunxs.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"狼友","name":"🥈狼友","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"色南国","name":"🥈色南国","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"佳丽","name":"🥈佳丽","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"色窝","name":"🥈色窝","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":0},
+    {"key":"鲨鱼","name":"🥈鲨鱼","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"淫窝","name":"🥈淫窝","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"乐鱼","name":"🥈乐鱼","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"葡萄","name":"🥈葡萄","type":1,"api":"https://caiji.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"99资源","name":"🥈99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"水蜜桃","name":"🥈水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"辣椒","name":"🥈辣椒","type":1,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"葡萄","name":"🥈葡萄","type":1,"api":"http://api.putaozy.net/inc/apijson_vod.php","playUrl":"https://jiexi.putaozy.net/m3u8/?url=","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"抖阴","name":"🥈抖阴","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"国色","name":"🥈国色","type":1,"api":"https://api.guosezy.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"花椒","name":"🥈花椒","type":0,"api":"https://apihjzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"酷豆","name":"🥈酷豆","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"爱播","name":"🥈爱播","type":1,"api":"https://cj1.apiabzy.com/api.php/provide/vod/?ac=list","playUrl":"https://player.aibozyplayer.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+
+    {"key":"csp_XYQHiker_猫咪","name":"猫咪","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/猫咪.json"},
+    {"key":"csp_XYQHiker_水果派","name":"水果派","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/水果派.json"},
+    {"key":"csp_XYQHiker_300分类","name":"300分类","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/300分类.json"}
+  ],
+  "parses":[
+    {"name":"Web聚合","type":3,"url":"Web"},
+    {"name":"Json并发","type":2,"url":"Parallel"},
+    {"name":"Json轮询","type":2,"url":"Sequence"},
+    {"name":"解析1","type":0,"url":"https://jx.777jiexi.com/player/?url="}, 
+    {"name":"解析2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}, 
+    {"name":"解析3","type":0,"url":"https://www.ckmov.vip/api.php?url="},
+    {"name":"解析4","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
+    {"name":"解析5","type":0,"url":"https://jx.playerjy.com/?url="},
+    {"name":"解析6","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+    {"name":"解析7","type":0,"url":"https://api.jiexi.la/?url="},
+    {"name":"解析8","type":0,"url":"https://jx.ivito.cn/?url="},
+    {"name":"解析9","type":0,"url":"https://www.8090g.cn/?url="},
+    {"name":"解析10","type":0,"url":"https://jx.zhanlangbu.com/?url="}, 
+    {"name":"解析11","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+    {"name":"解析12","type":1,"url":"https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url="}, 
+    {"name":"解析13","type":1,"url":"https://b.umkan.cc/API.php?url"}, 
+    {"name":"解析15","type":0,"url":"https://jx.zhanlangbu.com/?url="}, 
+    {"name":"解析16","type":0,"url":"https://h5.freejson.xyz/player/?url="}, 
+    {"name":"解析17","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="}, 
+    {"name":"解析18","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
+    {"name":"解析19","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=9ksb8DzGi6xUtNf1Cm&url="},
+    {"name":"解析20","type":1,"url":"https://jx.ccabc.cc/byg/?url="},
+    {"name":"解析21","type":1,"url":"https://b.umkan.cc/API.php?url="},
+    {"name":"解析22","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
+    {"name":"解析23","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+    {"name":"解析24","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+    {"name":"解析25","type":1,"url":"http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="},
+    {"name":"解析26","type":1,"url":"http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url="},
+    {"name":"解析27","type":0,"url":"https://okjx.cc/?url="}
+  ],
+  "rules":[
+    {"host":"*","rule":["avss.vip"]},
+    {"host":"avss.vip","rule":[".m3u8"]},
+    {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+    {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
+  ],
+  "flags":["youku","优酷","优酷视频","qq","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","sohu","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","bilibili","哔哩","哔哩哔哩","B站","renrenmi","wasu","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","xmm","xigua","m1905","funshion"],
+  "ijk":[
+    {"group":"软解码","options":[
+      {"category":4,"name":"opensles","value":"0"},
+      {"category":4,"name":"overlay-format","value":"842225234"},
+      {"category":4,"name":"framedrop","value":"1"},
+      {"category":4,"name":"soundtouch","value":"1"},
+      {"category":4,"name":"start-on-prepared","value":"1"},
+      {"category":1,"name":"http-detect-range-support","value":"0"},
+      {"category":1,"name":"fflags","value":"fastseek"},
+      {"category":2,"name":"skip_loop_filter","value":"48"},
+      {"category":4,"name":"reconnect","value":"1"},
+      {"category":4,"name":"max-buffer-size","value":"5242880"},
+      {"category":4,"name":"enable-accurate-seek","value":"0"},
+      {"category":4,"name":"mediacodec","value":"0"},
+      {"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+      {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+      {"category":4,"name":"mediacodec-hevc","value":"0"},
+      {"category":1,"name":"dns_cache_timeout","value":"600000000"}
+    ]},
+    {"group":"硬解码","options":[
+      {"category":4,"name":"opensles","value":"0"},
+      {"category":4,"name":"overlay-format","value":"842225234"},
+      {"category":4,"name":"framedrop","value":"1"},
+      {"category":4,"name":"soundtouch","value":"1"},
+      {"category":4,"name":"start-on-prepared","value":"1"},
+      {"category":1,"name":"http-detect-range-support","value":"0"},
+      {"category":1,"name":"fflags","value":"fastseek"},
+      {"category":2,"name":"skip_loop_filter","value":"48"},
+      {"category":4,"name":"reconnect","value":"1"},
+      {"category":4,"name":"max-buffer-size","value":"5242880"},
+      {"category":4,"name":"enable-accurate-seek","value":"0"},
+      {"category":4,"name":"mediacodec","value":"1"},
+      {"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+      {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+      {"category":4,"name":"mediacodec-hevc","value":"1"},
+      {"category":1,"name":"dns_cache_timeout","value":"600000000"}
+    ]}
+  ],
+  "ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}
