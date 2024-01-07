@@ -121,10 +121,6 @@
       "name": "zhtvbox"
     },
     {
-      "url": "https://raw.githubusercontent.com/xiaomi128/ztv/master/huyaxpa.json",
-      "name": "xiaomi"
-    },
-    {
       "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/1130cz.json",
       "name": "13800"
     },
@@ -137,24 +133,37 @@
       "name": "3580"
     },
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/fkaf1/TVBox/master/XC2.json",
-      "name": "13800组合"
-    },
-    {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/fkaf1/fk/master/3580.json",
-      "name": "3580组合"
+      "name": "停用3580组合"
     },
-    {
-      "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
-      "name": "2h组合"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/fkaf1/fk/master/h.json",
-      "name": "2h组合备用"
-    },
+
     {
       "url": "https://jihulab.com/fkaf/fk22/-/raw/main/h.json",
-      "name": "新2h组合备用"
+      "name": "停用ads组合备用"
+    },
+ {
+      "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+      "name": "停用2h组合"
+    },
+   {
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/DEMO/master/A.txt",
+      "name": "新绿茶"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xiaomi128/ztv/master/huyax.json",
+      "name": "xiaomi"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+      "name": "新高天"
+    },
+  {
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+      "name": "新蜜蜂"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fkaf1/fk/master/ads.json",
+      "name": "新ads用"
     },
     {
       "url": "https://raw.githubusercontent.com/c120487/00/main/05155.txt",
@@ -168,10 +177,7 @@
       "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json",
       "name": "fen测试"
     },
-    {
-      "url": "https://codeberg.org/ygbh8888/BH/raw/branch/main/box%E5%8E%9F.json",
-      "name": "移动直播"
-    },
+
     {
       "url": "https://jihulab.com/52670576/tvbox/-/raw/main/ysc.json",
       "name": "52670576xc"
