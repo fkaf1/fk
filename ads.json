@@ -30,7 +30,7 @@
 
 
 
-{"key": "路飞转点播","name": "AV点播2","type": 3,"api": "https://fongmi.cachefly.net/xiaomi128/opp/main/lfzhibo.js","ext": "https://fongmi.cachefly.net/xiaomi128/opp/main/lfmv.txt"，"jar":"https://fongmi.cachefly.net/xiaomi128/opp/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+{"key": "路飞转点播","name": "AV点播2","type": 3,"api": "https://fongmi.cachefly.net/xiaomi128/opp/main/lfzhibo.js","ext": "https://fongmi.cachefly.net/xiaomi128/opp/main/lfmv.txt"，"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
 {
      "key":"简写|模板1",
      "name":"女优",
