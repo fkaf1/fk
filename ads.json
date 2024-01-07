@@ -11,7 +11,7 @@
     {"key":"CK资源","name":"🍀CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_XBiu_酷云","name":"🍀酷云(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/酷云.json"},
 //自用
- //{"key":"csp_XBiu_by","name":"baoyu2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/fkaf/fk22/-/raw/main/h/暴雨3.json"},
+ //{"key":"csp_XBiu_by","name":"baoyu2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/暴雨3.json"},
     
     {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/c120487/00/blob/main/jar/xc0126.jar"}, 
 
@@ -21,7 +21,7 @@
 
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色仓库优","quickSearch":1,"searchable":1,"playerType":2,"type":3,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar;md5;dde04006f7a3369ed6c7637163dd5dd2"},
 
-{"key":"直播","name":"AV点播","type":3,"playerType":1,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/zhibo.js","ext":"🈲AV壹$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/live.txt#㊙️AV贰$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/av.txt#🆑AV叁$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/AV3.txt#🈴AV肆$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/AV4.txt&&&https://api.caonm.net/api/mc/","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
+{"key":"直播","name":"AV点播","type":3,"playerType":1,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/zhibo.js","ext":"🈲AV壹$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/live.txt#㊙️AV贰$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/av.txt#🆑AV叁$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/AV3.txt#🈴AV肆$https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/AV4.txt&&&https://api.caonm.net/api/mc/"，"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
 //{"key": "csp_xf_18av","name": "️18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/zipai.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
     
 {"key":"drpy_js_18av","name":"18av","type":3,"api":"https://agit.ai/weigs/w/raw/branch/master/lib/drpy.min.js","ext":"https://agit.ai/weigs/w/raw/branch/master/666/18av.js","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaomi128/raw/branch/main/1.jar;md5;e3526166d563812886317bd5f8e93c01"},
@@ -82,7 +82,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/暴雨.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/暴雨.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
         {
 "key": "csp_xBPQ_6121",
@@ -92,7 +92,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/6121.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/6121.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
             {
@@ -103,7 +103,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/解说全1.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/解说全1.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
 
 
@@ -115,7 +115,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/解说1.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/解说1.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
     {
@@ -126,7 +126,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/615n.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/615n.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
         {
@@ -137,7 +137,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/6154.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/6154.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
             {
@@ -148,7 +148,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/蜜桃.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/蜜桃.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                 {
@@ -159,7 +159,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/甩哥.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/甩哥.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                     {
@@ -170,7 +170,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/番禺.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/番禺.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                         {
@@ -181,7 +181,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/柏汁.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/柏汁.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                             {
@@ -192,7 +192,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/阿三.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/阿三.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                                 {
@@ -203,7 +203,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/怡乐.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/怡乐.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                                     {
@@ -214,7 +214,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/驶入.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/驶入.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                                         {
@@ -225,7 +225,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/有无.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/有无.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                                             {
@@ -236,7 +236,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/天美.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/天美.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
                                                 {
@@ -247,7 +247,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/如花.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/如花.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
 {
@@ -258,7 +258,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/多啦.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/多啦.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
 {
 "key": "csp_xBPQ_线上",
@@ -268,7 +268,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/线上.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/线上.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
  {
 "key": "csp_xBPQ_jy",
@@ -278,7 +278,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/jy.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/jy.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
      {
 "key": "csp_xBPQ_学会",
@@ -288,7 +288,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/学会.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/学会.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
      {
@@ -299,7 +299,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/雏鸟.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/雏鸟.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
          {
@@ -310,7 +310,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/花村.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/花村.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
             {
 "key": "csp_xBPQ_3k",
@@ -320,20 +320,9 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/3k.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/3k.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 }, 
     
- {
-"key": "csp_xBPQ_胖虎影视",
-"name": "胖虎影视",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/胖虎影视_XBPQ.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
-},
-
  {
 "key": "csp_xBPQ_四虎2",
 "name": "四虎2",
@@ -342,7 +331,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/四虎.json"},
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/四虎.json"},
     
 {"name":"ggmmzy速度","key":"00速度资源sea","type":0,"api":"http://www.ggmmzy.com:9999/inc/sea","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"ggmmzy哥哥妹妹","key":"00哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},  
@@ -354,7 +343,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://jihulab.com/fkaf/fk22/-/raw/main/h/tk.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/tk.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar"
 },
     
 {
