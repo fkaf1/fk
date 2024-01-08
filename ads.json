@@ -2,7 +2,8 @@
 //本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;564F69FA12A8D491569E9631629E0011",
+	//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;564F69FA12A8D491569E9631629E0011",
+	"spider":"https://fongmi.cachefly.net/xiaomi128/opp/main/1.jar;md5;e3526166d563812886317bd5f8e93c01",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
