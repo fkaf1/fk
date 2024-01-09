@@ -22,7 +22,7 @@
 
  // {"key":"drpy_js_猫了个咪","name":"猫了个咪优[DRPY18]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JS/js/猫了个咪.js","jar":"https://ghproxy.com/raw.githubusercontent.com/fkaf1/TVBOXZY/main/JAR/Yoursmile.jar"},	
 
- {"key": "奥斯卡资源网","name": "奥斯卡资源网gaotian"，"type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
+ {"key": "奥斯卡资源网","name": "奥斯卡资源网gaotian","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
 {"key":"*蛋蛋视频","name":"蛋蛋视频xiaomi","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key": "路飞转点播","name": "AV点播xiaomi","type": 3,"api": "https://fongmi.cachefly.net/xiaomi128/opp/main/lfzhibo.js","ext": "https://fongmi.cachefly.net/xiaomi128/opp/main/lfmv.txt"},
 {
