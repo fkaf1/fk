@@ -9,10 +9,17 @@
       "name": "南风"
     },
     {
-      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+      "url": "http://肥猫.live",
       "name": "肥猫"
     },
-
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+      "name": "云星家庭接口"
+    },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
       "name": "欧歌"
@@ -21,19 +28,15 @@
       "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
       "name": "分享者"
     },
-
+    {
+      "url": "http://tvkj.top/DC/dd/tvkj/svip.json",
+      "name": "多多家庭"
+    },
     {
       "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
       "name": "🚚运输车VIP"
     },
-    {
-      "url": "https://tvbox.cainisi.cf",
-      "name": "菜妮丝"
-    },
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "饭太硬"
-    },
+
     {
       "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro%e5%8e%9f.json",
       "name": "月光宝盒"
@@ -46,6 +49,10 @@
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
       "name": "巧技"
+    },
+        {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "菜妮丝"
     },
     {
       "url": "http://home.jundie.top:81/top98.json",
@@ -63,22 +70,16 @@
       "url": "https://pastebin.com/raw/5NHaxyGR",
       "name": "道长线路"
     },
-    {
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "云星家庭接口"
-    },
+
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
       "name": "蜂蜜"
     },
     {
-      "url": "https://download.kstore.space/download/2863/01.txt",
+      "url": "https://cn.kstore.space/download/2863/01.txt",
       "name": "潇洒空间"
     },
-    {
-      "url": "http://tvkj.top/DC/dd/tvkj/svip.json",
-      "name": "多多家庭"
-    },
+
     {
       "url": "http://tvkj.top/DC/fm/tvkj/svip.json",
       "name": "肥猫线路"
