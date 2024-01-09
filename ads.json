@@ -52,7 +52,7 @@
         "ratio": 1.485
       }
     },
-{"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"jar":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar","style":{"type":"rect","ratio":1.485}},
+{"key":"18AV","name":"18AVgaotian","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"jar":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar","style":{"type":"rect","ratio":1.485}},
 {
       "key": "aoo.qoqoavideo2.sbs",
       "name": "qoqoavideo",
