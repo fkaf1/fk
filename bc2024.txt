@@ -458,6 +458,11 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
 💞少儿频道,#genre#
+黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
+金鹰卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
+哈哈炫动,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
+BTV卡酷少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
+优漫卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 黑龙江少儿,http://39.134.67.226/PLTV/88888888/224/3221225979/index.m3u8
 北京卡酷少儿 576,http://39.134.65.208/PLTV/88888888/224/3221225562/index.m3u8
 江苏优漫卡通 576,http://39.134.65.208/PLTV/88888888/224/3221225556/index.m3u8
@@ -470,6 +475,11 @@ CCTV14 2.5M1080,http://39.134.65.208/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 
 🎬纪录频道,#genre#
+NewTV精品纪录 2.5M1080,http://39.134.65.208/PLTV/88888888/224/3221225545/index.m3u8
+求索动物 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
+求索生活 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225715/index.m3u8
+求索科学 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
+求索纪录 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
