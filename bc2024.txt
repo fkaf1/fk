@@ -5,7 +5,7 @@ CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index
 inamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225797/1.m3u8#http://39.134.65.235/PLTV/88888888/224/3221225797/1.m3u8
+CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225797/1.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225797/index.m3u8
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.ch
