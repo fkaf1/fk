@@ -47,7 +47,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/pg.jar"},
+      "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json$$${"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png","drives": [{"name": "网盘1","server": "https://alist-caimoui.cloud.okteto.net/私房菜/"}]}","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/pg.jar"},
     {
       "key": "AList2",
       "name": "AList2",
