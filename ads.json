@@ -47,7 +47,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json"，"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/pg.jar"},
+     "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/pg.jar"},
     {
       "key": "AList2",
       "name": "AList2",
