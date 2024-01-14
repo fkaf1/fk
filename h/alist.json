@@ -1,0 +1,13 @@
+﻿{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {"name": "网盘1","server": "https://alist-caimoui.cloud.okteto.net/私房菜/"},
+    {"name": "fw","server": "http://69.161.221.160:5244/"},
+    {"name": "alist.eduedu.eu.org","server": "https://alist.eduedu.eu.org"},
+    {"name": "LG五星棒","server": "https://lala-ofbip.run.goorm.site/"},
+    {"name": "ECVE","server": "https://pan.ecve.cn"},
+    {"name": "觸光","server": "https://pan.ichuguang.com"},
+    {"name": "星梦","server": "https://pan.bashroot.top"},
+    {"name": "罗汉果AV","server": "https://lala-ofbip.run.goorm.site"}
+  ]
+}
