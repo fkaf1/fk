@@ -10,11 +10,18 @@ play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://dbiptv.sn.chinamobile.com/P
 凤凰香港v6,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
-【探索-经典】点播！模式,https://www.goodiptv.club/douyu/3485629
-【荒野-求生】点播！模式,https://www.goodiptv.club/douyu/1339207
-【荒野-求生1】点播！模式,https://www.goodiptv.club/douyu/4933183
-【荒野-求生2】点播！模式,https://www.goodiptv.club/douyu/454867
-【自然-记录】点播！模式,https://www.goodiptv.club/douyu/4837387
+探索-经典0】点播,https://www.goodiptv.club/douyu/3485629
+荒野-求生0】点播,https://www.goodiptv.club/douyu/1339207
+荒野-求生1】点播,https://www.goodiptv.club/douyu/4933183
+荒野-求生2】点播,https://www.goodiptv.club/douyu/454867
+自然-记录0】点播,https://www.goodiptv.club/douyu/4837387
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://dbiptv.sn.ch
+inamobile.com/PLTV/88888890/224/3221226211/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://ottrrs.hl.ch
+inamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://ottrrs.hl.ch
+inamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 
 凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
@@ -65,7 +72,8 @@ CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-📡｜移动央视,#genre#
+
+📡｜移动央卫,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.ch
 inamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://dbiptv.sn.ch
@@ -75,20 +83,20 @@ inamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-4国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225797/1.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225797/index.m3u8
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.ch
+CCTV-5赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226011/1.m3u8
-CCTV-7军事·农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://dbiptv.sn.ch
+CCTV-7军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://dbiptv.sn.ch
+CCTV-8电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://dbiptv.sn.ch
+CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226190/1.m3u8
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#https://live-
 play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/22
@@ -96,31 +104,21 @@ play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://dbiptv.sn.chinamobile.com/P
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.ch
+CCTV-16奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.ch
+CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.ch
 inamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-CCTV世界地理 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV兵器科技 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV央视文化精品 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-CCTV怀旧剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV电视指南 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-CCTV第一剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-求索动物 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
-求索生活 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225715/index.m3u8
-求索科学 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
-求索纪录 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
 
-📡｜移动卫视,#genre#
+凤凰中文v6,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯v6,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港v6,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://dbiptv.sn.ch
+inamobile.com/PLTV/88888890/224/3221226211/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://ottrrs.hl.ch
+inamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://ottrrs.hl.ch
+inamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.ch
 inamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.ch
@@ -141,20 +139,13 @@ inamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.ch
 inamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://ottrrs.hl.ch
-inamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8#http://ottrrs.hl.ch
 inamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://dbiptv.sn.ch
-inamobile.com/PLTV/88888890/224/3221226211/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8#http://ottrrs.hl.ch
 inamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://ottrrs.hl.ch
-inamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8#http://ottrrs.hl.ch
 inamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
@@ -168,7 +159,26 @@ inamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+求索动物 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
+求索生活 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225715/index.m3u8
+求索科学 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
+求索纪录 8M1080,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
 爱情喜剧,http://39.134.67.226/PLTV/88888888/224/3221225533/index.m3u8
+CCTV世界地理 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV兵器科技 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV央视文化精品 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CCTV怀旧剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV电视指南 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+CCTV第一剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 NewTV东北热剧 4M1080,http://39.134.65.208/PLTV/88888888/224/3221225679/index.m3u8
 NewTV中国功夫 2.5M1080,http://39.134.65.208/PLTV/88888888/224/3221225604/index.m3u8
 NewTV农业致富 4M1080,http://39.134.65.208/PLTV/88888888/224/3221225552/index.m3u8
@@ -315,8 +325,8 @@ CCTV-4 国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/inde
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-7 军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
@@ -324,8 +334,8 @@ CCTV-12 社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/ind
 CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-16 奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17 农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
@@ -1313,7 +1323,7 @@ NewTV精品纪录 2.5M1080,http://39.134.65.208/PLTV/88888888/224/3221225545/ind
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
-🎬｜斗鱼,#genre#
+🎬｜斗鱼直播,#genre#
 【晨曦-直播】点播！模式,https://www.goodiptv.club/douyu/315173
 【卖铁-直播】点播！模式,https://www.goodiptv.club/douyu/301289
 【杰克-直播】点播！模式,https://www.goodiptv.club/douyu/48748
