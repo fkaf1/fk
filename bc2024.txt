@@ -1665,6 +1665,11 @@ CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebb
 【帝王-直播】点播！模式,https://www.goodiptv.club/douyu/731252
 【百里-直播】点播！模式,https://www.goodiptv.club/douyu/56876
 
+【探索-经典】点播！模式,https://www.goodiptv.club/douyu/3485629
+【荒野-求生】点播！模式,https://www.goodiptv.club/douyu/1339207
+【荒野-求生1】点播！模式,https://www.goodiptv.club/douyu/4933183
+【荒野-求生2】点播！模式,https://www.goodiptv.club/douyu/454867
+【自然-记录】点播！模式,https://www.goodiptv.club/douyu/4837387
 【老烟斗-直播】点播！模式,https://www.goodiptv.club/douyu/2337939
 【叶子户外-直播】点播！模式,https://www.goodiptv.club/douyu/12580
 【本山-小品】点播！模式,https://www.goodiptv.club/douyu/9817716
