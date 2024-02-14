@@ -1351,7 +1351,7 @@ NewTV精品纪录 2.5M1080,http://39.134.65.208/PLTV/88888888/224/3221225545/ind
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
-🎬｜斗鱼直播,#genre#
+🎬斗鱼直播,#genre#
 【晨曦-直播】点播！模式,https://www.goodiptv.club/douyu/315173
 【卖铁-直播】点播！模式,https://www.goodiptv.club/douyu/301289
 【杰克-直播】点播！模式,https://www.goodiptv.club/douyu/48748
