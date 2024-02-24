@@ -637,7 +637,7 @@ CCTV3,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-
 CCTV4,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
 CCTV5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
 CCTV5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-cctv05plus/1.m3u8
-CCTV5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+CCTV5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
 CCTV6,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
 CCTV7,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
 CCTV8,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
